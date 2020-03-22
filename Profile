@@ -1,1 +1,0 @@
-worker: python viber_bot.py
