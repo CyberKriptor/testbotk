@@ -1,5 +1,0 @@
-flask  
-viberbot
-logging 
-os
-setuptools
